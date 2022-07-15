@@ -65,5 +65,4 @@ from sales
 inner join menu
 on sales.product_id=menu.product_id
 
-
 --How many days has each customer visited the restaurant?
